@@ -1,0 +1,91 @@
+
+iframe{
+  border: 0px;
+}
+
+.background{
+  background-image: url("../img/back1.jpg");
+}
+
+#cont{
+  width: 1055px;
+}
+
+.logoposition{
+
+  text-align: center;
+}
+.logo{
+  width:100%;
+  height:100%;
+}
+
+.logoText{
+  margin: auto;
+  text-align: center;
+  color: Crimson ;
+  font-size:45px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 1px -1px 5px grey;
+}
+
+.boldText{
+  margin: auto;
+  text-align: center;
+  font-size:25px;
+  font-weight: 300;
+  color: blue;
+  font-family: 'Comfortaa', cursive;
+}
+.navRight{
+  text-align:center;
+  margin-bottom: -10px;
+}
+
+.navStyle{
+  font-family: 'Russo One', sans-serif;
+  text-shadow: 1px -1px 7px black;
+}
+
+.card-panel{
+
+  height: 200px;
+}
+
+.radius{
+  border-radius: 20px;
+  box-shadow: 10px -5px 10px grey;
+}
+
+.page-footer{
+  border-radius: 0px 0px 20px 20px;
+}
+
+.whyWe{
+  margin: auto;
+  margin-top: -5px;
+  text-align: center;
+  color: Crimson ;
+  font-size:45px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 1px -1px 7px grey;
+}
+
+.better{
+  font-family: 'Comfortaa', cursive;
+  color: white;
+  text-shadow: 2px -2px 5px grey;
+}
+
+.white-text .grey-text{
+  font-family: 'Comfortaa', cursive;
+}
+
+.video-container{
+  margin-bottom: 5px;
+  margin-top: 15px;
+}
+
+#fixfooter{
+  margin-bottom: -20px;
+}
